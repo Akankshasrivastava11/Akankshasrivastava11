@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**Akankshasrivastava11/Akankshasrivastava11** is a ✨ _spe# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:
+🔭 I’m currently working on school management system <br>👯 I’m collaborate with theinnovators<br>🤝 I’m looking for internship <br>🌱 I’m currently learning full stack with python <br>💬 i am in my final year of BCA
 
 
 ## 🌐 Socials:
@@ -18,11 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Akankshasrivastava11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on school management system
-- 🌱 I’m currently learning full stack in python
-- 👯 I’m  collaborate with innovators
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
